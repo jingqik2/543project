@@ -3,7 +3,6 @@
 This GitHub repository contains a preprocessed IMDB WIKI dataset.
 
 
-
 ## Introduction
 IMDB WIKI dataset is the largest dataset of human faces with gender, name and age information. In this project, I preprocessed the entire dataset so that it can be used easily without any problems.
 
@@ -22,12 +21,6 @@ The dataset is great for research purposes. It contains more than `500 thousand+
   - Some of the ages are invalid
   - The distribution between the gender is not equal(there are more male faces than female faces)
   - Also, the meta information is in `.mat` format. Reading `.mat` files in python is a tedious process.
-
-
-  - `Numpy=1.15.4`
-  - `Scipy=1.2.0`
-  - `pandas=0.23.4`
-  - `cv2=4.0.0`
 
 ## Acknowledgments
 I really thankful to these peoples for providing this amazing dataset
