@@ -2,9 +2,6 @@
 
 This GitHub repository contains a preprocessed IMDB WIKI dataset.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/34741145/51108233-75bac680-1817-11e9-8b79-6a1ee05d8aa4.png" />
-</p>
 
 
 ## Introduction
